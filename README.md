@@ -1,6 +1,6 @@
 | Its Pratik Joshi | 🎨 **Introduction:**  |
 |----------------------------------------|-----------------------|
-| <img src="profile.jpg" width="150px" style="border-radius: 50%;"> | - Hello! I'm **Pratik Joshi**, a **B.Tech graduate in Computer Science and Engineering**. <br> - A **creative thinker**, **problem solver**, and **avid learner**, constantly exploring new trends and techniques in design. <br> - When I'm not working on digital projects, you can find me with a **sketchbook**, capturing the world around me, or lost in the pages of a good **design book**. |
+| <img src="profile.png" width="150px" style="border-radius: 50%;"> | - Hello! I'm **Pratik Joshi**, a **B.Tech graduate in Computer Science and Engineering**. <br> - A **creative thinker**, **problem solver**, and **avid learner**, constantly exploring new trends and techniques in design. <br> - When I'm not working on digital projects, you can find me with a **sketchbook**, capturing the world around me, or lost in the pages of a good **design book**. |
 
 # 🎓 Education
 
